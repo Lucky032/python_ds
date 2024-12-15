@@ -23,4 +23,5 @@ print(a[0],a[2],a[4])
 #Insert any element at second position of an array ex: 25
 a.insert(2,25)
 print(a)
+print(a)
 
